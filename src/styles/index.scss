@@ -1,0 +1,21 @@
+
+@import "mixins";
+
+
+
+
+/* 定义map集合 */
+.box {
+	width: 100px;
+	@include opacity(80);
+}
+
+
+
+//继承
+
+
+
+//嵌套
+
+

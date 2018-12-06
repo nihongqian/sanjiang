@@ -1,0 +1,1 @@
+"use strict";define(["jquery"],function(t){return{init:function(n){this.ele=t(n)},addEvent:function(){},close:function(){}}});
